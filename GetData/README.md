@@ -1,0 +1,1 @@
+# README для папки GetData
