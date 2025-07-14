@@ -15,3 +15,4 @@ Market & Speculation (прогнозы, аналитика): Множитель 
 Оценка = клип (1*2*3), где 1,2,3 этапы
 # Данные
 Все csv файлы будут здесь: https://drive.google.com/drive/folders/1p-DVL7UTW8SkEfBmvJOiNpKyVYXnQ7tQ?usp=drive_link
+- Эталонная таблица по новостям (24.01.2020 - 11.07.2025): https://drive.google.com/file/d/1qmjWCx4RQL3cqwH-aXpG2duj-Sev0VcI/view?usp=drive_link
